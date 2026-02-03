@@ -1,3 +1,2 @@
-*.log
-cache/
-Trash/
+kitty-themes/
+**/.git/
