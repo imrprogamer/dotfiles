@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 51 58.999999"
+   sodipodi:docname="switch.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   width="51"
+   height="59"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57" />
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#d1d1d1"
+     bordercolor="#4d4d4d"
+     borderopacity="0.98823529"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="27.719986"
+     inkscape:cx="77.597442"
+     inkscape:cy="76.244628"
+     inkscape:window-width="3440"
+     inkscape:window-height="1373"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid286"
+       originx="0"
+       originy="9.9999996e-08"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-Background {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }
+        .ColorScheme-Highlight {
+            color:#3daee9;
+            stop-color:#3daee9;
+        }
+        .ColorScheme-ButtonText {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-ButtonBackground {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }</style>
+  <rect
+     id="hint-stretch-borders"
+     y="9.9999994e-08"
+     width="4"
+     height="4"
+     fill="#ff2a2a"
+     x="0"
+     style="fill:#008080" />
+  <rect
+     style="fill:#008080;stroke-width:145.989;stroke-linecap:round"
+     id="hint-bar-size"
+     width="36"
+     height="14.000002"
+     x="15.000001"
+     y="-1.256642e-06" />
+  <g
+     id="handle"
+     transform="translate(-77,-5)">
+    <rect
+       style="opacity:0.11;fill:none;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1"
+       width="22"
+       height="22"
+       x="77"
+       y="64" />
+    <circle
+       style="opacity:1;fill:#dddddd;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path1"
+       cx="88"
+       cy="75"
+       r="9" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#handle"
+     id="handle-hover"
+     transform="translate(23,1.0000011)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#handle"
+     id="handle-pressed"
+     transform="translate(45,1.0000011)" />
+  <path
+     id="inactive-left"
+     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 15,27 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 z" />
+  <path
+     id="inactive-right"
+     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 17,27 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 z" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:145.989;stroke-linecap:round;opacity:0.25"
+     id="inactive-center"
+     width="0.99999994"
+     height="14"
+     x="16"
+     y="27" />
+  <path
+     id="active-left"
+     style="opacity:1;fill:#83b459;fill-opacity:1;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 39,27 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 z" />
+  <path
+     id="active-right"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     d="m 41,27 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 z" />
+  <rect
+     style="opacity:1;fill:#83b459;fill-opacity:1;stroke-width:145.989;stroke-linecap:round"
+     id="active-center"
+     width="0.99999994"
+     height="14"
+     x="40"
+     y="27" />
+  <g
+     id="handle-shadow"
+     transform="translate(-10,-3.9999989)">
+    <rect
+       style="opacity:0.11;fill:none;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect2"
+       width="22"
+       height="22"
+       x="77"
+       y="64" />
+    <circle
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="circle2"
+       cx="88"
+       cy="75"
+       r="10" />
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "gibreel.khan@gmail.com",
+                "Name": "Gibreel Abdullah"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "A modern looking hijri clock widget for your Desktop!",
+        "Icon": "clock",
+        "Id": "com.github.gibreel.modernhijriclock",
+        "License": "GPLv3",
+        "Name": "Modern Hijri Clock",
+        "Version": "1.0.0",
+        "Website": "https://github.com/GibreelAbdullah/kde_hijri_modernclock"
+        
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": "org.kde.plasma.time,org.kde.plasma.date",
+    "KPackageStructure": "Plasma/Applet"
+}

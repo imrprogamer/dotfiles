@@ -1,0 +1,21 @@
+[ContrastEffect]
+contrast=0.2
+enabled=true
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Name=Zephyr
+X-KDE-PluginInfo-Author=Akseli
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=akselmo@akselmo.dev
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Name=Zephyr
+X-KDE-PluginInfo-Version=1.0.17
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Settings]
+FallbackTheme=default
